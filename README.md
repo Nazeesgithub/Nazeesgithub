@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://https://www.pinterest.com/pin/563018696204841/)<h1 align="center">Hi 👋, I'm Nazeefa Nazar</h1>
+<h1 align="center">Hi 👋, I'm Nazeefa Nazar</h1>
 <h3 align="center">An undergraduate in the field of Computer Science with Artificial Intelligencee</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-<p align="left"> <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" alt="nazeesgithub" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazeesgithub&label=Profile%20views&color=0e75b6&style=flat" alt="nazeesgithub" /> </p>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **c++,python**
