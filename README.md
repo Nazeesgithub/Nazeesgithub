@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate in the field of Computer Science with Artificial Intelligencee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazeesgithub&label=Profile%20views&color=0e75b6&style=flat" alt="nazeesgithub" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt="Coding" width="400" src="https://assets.pinterest.com/ext/embed.html?id=52987733111363884">
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **c++,python**
