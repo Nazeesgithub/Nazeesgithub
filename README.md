@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://assets.pinterest.com/ext/embed.html?id=52987733111363884">
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **c++,python**
+- 💬 Ask me about **c++,python,Java,R,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **nazeeyamaani@gmail.com**
 
