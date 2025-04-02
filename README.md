@@ -1,3 +1,6 @@
+<img src="<img src="your-banner-image-url" width="100%">" width="100%">
+
+
 # 💫 About Me:<img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h1>
 
 <br>💡  I like to explore new technologies and develop software solutions and quick hacks.<br>🎓  I’m currently studying Computer Science with AI   at NIBM ,Sri Lanka.<br>🌱  I’m on track for learning more about Artificial Intelligence,Front end and Backend development.<br>✍️  In my free time, I pursue Creating new recipies and playing chess as hobbies..<br>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at nazeeyamaani@gmail.com I’ll try to respond as soon as I can.<br>
@@ -16,22 +19,19 @@
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nazeesgithub&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nazeesgithub&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeesgithub&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nazeesgithub&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Nazeesgithub&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nazeesgithub&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeesgithub&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nazeesgithub&theme=radical&no-frame=true&no-bg=true&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=Nazeesgithub&icon=4&color=12)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=Nazeesgithub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nazeesgithub&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
